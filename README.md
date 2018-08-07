@@ -1,4 +1,4 @@
-Nginx PHP MySQL Build Status GitHub version
+#Nginx PHP MySQL Build Status GitHub version
 Docker running Nginx, PHP-FPM, Composer, MySQL and PHPMyAdmin.
 
 Overview
